@@ -1,13 +1,13 @@
-package br.com.bandtec.agendaDeObjetivos;
+package br.com.bandtec.goalschedule;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AgendaDeObjetivosApplication {
+public class GoalscheduleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AgendaDeObjetivosApplication.class, args);
+		SpringApplication.run(GoalscheduleApplication.class, args);
 	}
 
 }
