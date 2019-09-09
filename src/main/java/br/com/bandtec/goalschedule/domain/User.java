@@ -1,4 +1,4 @@
-package br.com.bandtec.goalschedule;
+package br.com.bandtec.goalschedule.domain;
 
 public class User {
     private String name;

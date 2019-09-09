@@ -1,4 +1,4 @@
-package br.com.bandtec.goalschedule;
+package br.com.bandtec.goalschedule.domain;
 
 public class Credential {
     private String username;

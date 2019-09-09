@@ -1,6 +1,6 @@
 package br.com.bandtec.goalschedule.controller;
 
-import br.com.bandtec.goalschedule.User;
+import br.com.bandtec.goalschedule.domain.User;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;

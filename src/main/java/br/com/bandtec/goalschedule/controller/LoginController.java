@@ -1,6 +1,6 @@
 package br.com.bandtec.goalschedule.controller;
 
-import br.com.bandtec.goalschedule.Credential;
+import br.com.bandtec.goalschedule.domain.Credential;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
