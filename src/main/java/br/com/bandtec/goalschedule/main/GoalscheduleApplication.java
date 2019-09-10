@@ -1,4 +1,4 @@
-package br.com.bandtec.goalschedule;
+package br.com.bandtec.goalschedule.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
